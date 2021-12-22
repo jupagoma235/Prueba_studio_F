@@ -83,16 +83,8 @@ namespace Prueba_studio_F
 
         private void bt_rpt_Click(object sender, EventArgs e)
         {
-            
-            foreach (var item in listar1.mostrar().GroupBy(x => x))
-            {
-               if (item.Count() > 1)
-               {
-                   
-                   MessageBox.Show("Número " + item.Key + " encontrado " + item.Count() + " veces");
-               }                
-            }         
-            
+            listBox1.DataSource = null;              
+            listBox1.DataSource = listar1.repetidos().Distinct().ToList();
         }        
     }
 }
