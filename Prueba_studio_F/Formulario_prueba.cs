@@ -83,7 +83,7 @@ namespace Prueba_studio_F
 
         private void bt_rpt_Click(object sender, EventArgs e)
         {
-            listBox1.DataSource = null;              
+            listBox1.DataSource = null;
             listBox1.DataSource = listar1.repetidos().Distinct().ToList();
         }        
     }

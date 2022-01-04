@@ -1,0 +1,16 @@
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\bin\Debug\netcoreapp3.1\Prueba_studio_F.exe
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\bin\Debug\netcoreapp3.1\Prueba_studio_F.deps.json
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\bin\Debug\netcoreapp3.1\Prueba_studio_F.runtimeconfig.json
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\bin\Debug\netcoreapp3.1\Prueba_studio_F.runtimeconfig.dev.json
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\bin\Debug\netcoreapp3.1\Prueba_studio_F.dll
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\bin\Debug\netcoreapp3.1\Prueba_studio_F.pdb
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.AssemblyInfoInputs.cache
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.AssemblyInfo.cs
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.dll
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.pdb
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.Formulario_prueba.resources
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.csproj.GenerateResource.cache
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.csproj.CoreCompileInputs.cache
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.genruntimeconfig.cache
+C:\Users\jupag\source\repos\Prueba_studio_F\Prueba_studio_F\obj\Debug\netcoreapp3.1\Prueba_studio_F.csproj.AssemblyReference.cache

@@ -20,24 +20,26 @@ namespace Prueba_studio_F
             return busqueda;          
         }
 
-        public List<string> repetidos()
+        public List<int> repetidos()
         {
-            int cont=0;
-            List<string> lstnum2 = new List<string>();
+            int cont=0; 
+            List<int> lstnum2 = new List<int>();
             
             foreach (var item in lstnum1)
             {
+                cont = 0;
                 foreach (var item1 in lstnum1)
                 {
                     if (item == item1) 
                     {
                         cont = cont+1;
+                        
                     }
                 }
-                if (cont > 1) 
-                {
-                    lstnum2.Add( "El (" + item.ToString() + ") está repetido");
-                    cont = 0;
+                if (cont > 1 ) 
+                {                    
+                    lstnum2.Add(item);                  
+                    
                 }
             }
 

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dy2zyAEa0tSf5x3yPnNOz7ywk2hLK8X/86VQGJ4DqFU1/+I+xBLhtZY/u+vjr+mlc7t4xWs9YA7la+K+fw1sKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jupag\\source\\repos\\Prueba_studio_F\\Prueba_studio_F\\Prueba_studio_F.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jupag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\jupag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jupag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jupag\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

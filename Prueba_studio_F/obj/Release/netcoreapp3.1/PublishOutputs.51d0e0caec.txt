@@ -1,0 +1,5 @@
+C:\Users\jupag\OneDrive\Escritorio\programas compilados\Prueba_studio_F.exe
+C:\Users\jupag\OneDrive\Escritorio\programas compilados\Prueba_studio_F.dll
+C:\Users\jupag\OneDrive\Escritorio\programas compilados\Prueba_studio_F.deps.json
+C:\Users\jupag\OneDrive\Escritorio\programas compilados\Prueba_studio_F.runtimeconfig.json
+C:\Users\jupag\OneDrive\Escritorio\programas compilados\Prueba_studio_F.pdb
