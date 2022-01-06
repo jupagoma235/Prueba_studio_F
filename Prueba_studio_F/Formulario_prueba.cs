@@ -47,7 +47,8 @@ namespace Prueba_studio_F
             {
                 MessageBox.Show("Los valores ingresados deben ser numeros enteros y menores a 2147483647");
                 textBox1.Text = "";                          
-            }                        
+            }    
+            textBox1.Select();
         }
 
         private void bt_bsc_Click(object sender, EventArgs e)
@@ -79,6 +80,7 @@ namespace Prueba_studio_F
                                         
                 }
             }
+            textBox1.Select();            
         }
 
         private void bt_rpt_Click(object sender, EventArgs e)
